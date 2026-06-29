@@ -149,6 +149,4 @@ Voice-controlled desktop assistant built using Python.
 
 ## Contact
 
-GitHub: YOUR_PROFILE_LINK
-
-LinkedIn: YOUR_LINKEDIN_PROFILE
+GitHub: https://github.com/anu89ranjan89
